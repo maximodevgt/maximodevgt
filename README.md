@@ -31,7 +31,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-Base%20de%20datos-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL%20Workbench-Herramienta%20SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-Sistema%20Operativo-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/QA-Inter%C3%A9s-6A1B9A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Inform%C3%A1tica-Multidisciplinaria-0A66C2?style=for-the-badge" />
 </p>
