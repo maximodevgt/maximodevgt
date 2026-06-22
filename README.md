@@ -19,7 +19,7 @@
   <li>🖥️ Enfocado en el área de <strong>informática</strong> y sus diferentes ramas.</li>
   <li>🧪 Interés en <strong>testing y calidad de software (QA)</strong>.</li>
   <li>💻 Conocimientos en <strong>desarrollo web</strong> como herramienta de aprendizaje.</li>
-  <li>🐍 Aprendiendo <strong>Python y Django</strong> para el desarrollo de sistemas web.</li>
+  <li>🐍 Aprendiendo <strong>Python y Django</strong> para desarrollar sistemas web.</li>
   <li>🗄️ Trabajo con <strong>bases de datos</strong> y consultas SQL.</li>
   <li>📚 En constante aprendizaje y crecimiento profesional.</li>
 </ul>
@@ -29,15 +29,15 @@
 <h2>🛠️ Tecnologías y herramientas</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,python,django,react,astro,postgres,php,js,html,css,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=laravel,python,django,react,astro,postgres,php,js,html,css,git,github,vscode,linux" alt="Tecnologías y herramientas" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-Base%20de%20datos-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL%20Workbench-Herramienta%20SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-Framework%20Web-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/QA-Inter%C3%A9s-6A1B9A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Inform%C3%A1tica-Multidisciplinaria-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Base%20de%20datos-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL%20Workbench-Herramienta%20SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench" />
+  <img src="https://img.shields.io/badge/Django-Framework%20Web-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/QA-Inter%C3%A9s-6A1B9A?style=for-the-badge" alt="QA" />
+  <img src="https://img.shields.io/badge/Inform%C3%A1tica-Multidisciplinaria-0A66C2?style=for-the-badge" alt="Informática" />
 </p>
 
 ---
@@ -115,7 +115,11 @@
 
 <p align="center">
   <a href="https://github.com/maximodevgt">
-    <img src="https://img.shields.io/badge/GitHub-maximodevgt-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-maximodevgt-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/maximiliano-ajca-us-301564415/">
+    <img src="https://img.shields.io/badge/LinkedIn-Maximiliano%20Ajca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
