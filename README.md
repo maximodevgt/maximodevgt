@@ -111,18 +111,6 @@
 
 ---
 
-<h2>📫 Contacto</h2>
-
-<p align="center">
-  <a href="https://github.com/maximodevgt">
-    <img src="https://img.shields.io/badge/GitHub-maximodevgt-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/maximiliano-ajca-us-301564415/">
-    <img src="https://img.shields.io/badge/LinkedIn-Maximiliano%20Ajca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
 <p align="center">
   Gracias por visitar mi perfil.
 </p>
